@@ -1,0 +1,134 @@
+#flex-container {
+
+    
+    
+}
+
+h1 {
+    font-family: Garamond;
+    text-align: center;
+    font-size: 40px;
+    color: white; font
+    
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 28px;
+}
+
+h4{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.txt {
+    font-family: Garamond;
+    text-align: center;
+    font-size: 25px;
+    color: white; font
+
+}
+
+
+a {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #54b3d6;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+a:hover {
+    box-shadow: inset 100px 0 0 0 #54b3d6;
+    color: white;
+}
+
+
+.txt1 {
+    word-wrap: break-word;
+    height: 350px;
+    width: 550px;
+    font-family: Garamond;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 100px;
+    border-radius: 10% / 50%;
+    border-style: inset;
+    
+}
+
+.txt2 {
+    position: absolute;
+    right: 50px;
+    top: 227px;
+    width: 550px;
+    height: 600px;
+    word-wrap: break-word; 
+    font-family: Garamond;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+    border-radius: 10% / 50%;
+    border-style: inset;
+
+}
+
+.txt3 {
+    word-wrap: break-word;
+    height: 550px;
+    width: 550px;
+    font-family: Garamond;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 100px;
+    border-radius: 10% / 50%;
+    border-style: inset;
+}
+
+.txt4 {
+    position: absolute;
+    right: 50px;
+    top: 900px;
+    width: 550px;
+    height: 600px;
+    word-wrap: break-word; 
+    font-family: Garamond;
+    text-align: justify;
+    font-size: 25px;
+    color: white;
+    text-indent: 30px;
+    border-radius: 10% / 50%;
+    border-style: inset;
+    
+}
+
+.txt5 {
+    word-wrap: break-word;
+    height: 350px;
+    width: 550px;
+    font-family: Garamond;
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 100px;
+    border-radius: 10% / 50%;
+    border-style: inset;
+}
+
+.ul { 
+    margin: left 30px;
+}

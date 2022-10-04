@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<!-- Police=Garamond width= largeur  id = #  /  class = .  -->
+<!-- -->
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+
+    <body>
+        <body style="background: linear-gradient(to right, #141e30, #243b55)"></body>
+
+            
+        
+            <div id= "flex-container">
+            
+                <h1>Estèphe FATH</h1>
+            </div>
+            
+
+            <div  class= "txt"> <p>Bienvenue sur mon site CV de ma réalisation!</p> </div>
+
+            <div  class= "txt1"> <h2> Informations et contact</h2>
+              <div class= "ul">   
+                <ul>
+                <ol>106 promenade du lac bat A1 apt 401</ol>
+                <ol>33300 Bordeaux</ol>
+                <ol>Tél. 07 82 17 56 16</ol>
+                <ol>Mail: estephefath@gmail.com</ol>
+                <ol>18 ans</ol>
+                <ol><u><a href="https://www.linkedin.com/in/estèphe-fath-1b5455223/" target="https://www.linkedin.com/in/estèphe-fath-1b5455223/">Linkedin</ol></a></u>
+                <ol><u><a href="https://github.com/estephefath" target="https://github.com/estephefath">GitHub</ol></a></u>
+                </ul>
+              </div>
+            </div>
+                                
+            <div  class= "txt2"> <h2>Compétences</h2>
+                <h3>Savoir faire</h3>
+                  <h4>Apprentissage des languages:<h4>
+            <ul>
+                <ol>HTML</ol>
+                <ol>CSS</ol>
+                <ol>C</ol>
+                <ol>Python</ol>
+                <ol>JavaScrypt</ol>
+              </ul>
+
+                <h3>Savoir être</h3>
+              <ul>
+                <ol>Capacité d'adaptation</ol>
+                <ol>Curiosité</ol>
+                <ol>Bon relationnel</ol>
+                <ol>Bonne humeur</ol>  
+                  
+              </ul>
+            
+            </div>
+
+             <!--   https://freefrontend.com/css-animation-examples/  -->
+    
+             <div class = "txt3"> <h2>Cursus scolaire</h2>
+              <ul>
+                <li>Année 2022-2024</li>
+                  <p><i>Formation a CESI de développeur informatique (titre RNCP de niveau 5)</i></p>
+
+                <li>Année 2020-2021</li>
+                  <p><i>Diplôme du Baccalauréat technologique STMG option Ressources Humaines Communication (mention bien). Lycée Jean Condorcet (33)</i></p>
+
+                <li>Année 2017-2018</li>
+                  <p><i>Brevet mention assez bien Collège Blanqui (33)</i></p>
+
+              </ul>
+             </div>
+             
+             <div class="txt4"> <h2>Expériences professionnelles</h2>
+
+                    <h3>Septembre 2021 Raid Sud Ouest</h3>
+                      <ol>Prospection en porte a porte</ol>
+                      <ol>Vente d'abonnements</ol>
+                      <ol>Formation commercial produit</ol>
+
+                    <h3>Décembre 2017 Centre d'examens de santé (Begles)</h3>
+                      <ol>Stage découverte du monde du travail</ol>
+                      <ol>Insertion dans le monde du travail</ol>
+                      <ol>Observation de l'accueil des usagers</ol>
+             </div>
+
+             <div class= "txt5"> <h2>Centres d'intéret</h2>
+                      <ol>Jeux vidéos</ol>
+                      <ol>Musique</ol>
+                      <ol>Sport: Footing, Naginata</ol>
+            
+             </div>
+             
+            
+            
+  
+    </body>
+
+
+
+
+
+</html>
+
+
+
+
+
+
+<!-- <div class="box">
+                <div class="box-inner">
+                  <div class="box-front">
+                    <h2>Face frontale</h2>
+                  </div>
+                  <div class="box-back">
+                    <h2>Face arrière</h2>  -->
+
+<!-- .box {
+  
+    background-color: transparent;
+    width: 220px;
+    height: 300px;
+    border: 1px solid #eeeeee;
+    perspective: 1000px;
+  }
+
+  .box-inner {
+    
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.4s;
+    transform-style: preserve-3d;
+  }
+
+  .box:hover .box-inner {
+    
+    transform: rotateX(180deg);
+  }
+
+  .box-front,
+  .box-back {
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+  }
+
+  .box-front {
+    
+    background-color: #cccccc;
+    color: #111111;
+  }
+
+  .box-back {
+    
+    background-color: #7C99FC;
+    color: white;
+    transform: rotateX(180deg);
+  } -->
