@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<!-- Police=Garamond width= largeur  id = #  /  class = .  -->
-<!-- -->
     <head>
         <link rel="stylesheet" href="style.css" />
     </head>
@@ -91,23 +89,16 @@
                       <ol>Musique</ol>
                       <ol>Sport: Footing, Naginata</ol>
             
-             </div>
-             
-            
-            
+             </div>         
   
     </body>
-
-
-
-
 
 </html>
 
 
 
 
-
+<!-- Police=Garamond width= largeur  id = #  /  class = .  -->
 
 <!-- <div class="box">
                 <div class="box-inner">
