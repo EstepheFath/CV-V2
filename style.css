@@ -3,6 +3,7 @@ h1 {
     text-align: center;
     font-size: 40px;
     color: white; font
+    
 }
 
 h2 {
@@ -15,13 +16,13 @@ h3 {
     font-size: 28px;
 }
 
-h4{
+h4 {
     text-align: left;
     font-size: 20px;
     margin-left: 30px;
 }
 
-.txt {
+.txt_bienvenue {
     font-family: Garamond;
     text-align: center;
     font-size: 25px;
@@ -44,7 +45,7 @@ a:hover {
 }
 
 
-.txt1 {
+.txt_info_contact {
     word-wrap: break-word;
     height: 350px;
     width: 550px;
@@ -59,7 +60,7 @@ a:hover {
     
 }
 
-.txt2 {
+.txt_competences {
     position: absolute;
     right: 50px;
     top: 227px;
@@ -76,7 +77,7 @@ a:hover {
 
 }
 
-.txt3 {
+.txt_cursus {
     word-wrap: break-word;
     height: 550px;
     width: 550px;
@@ -90,7 +91,7 @@ a:hover {
     border-style: inset;
 }
 
-.txt4 {
+.txt_exp_pro {
     position: absolute;
     right: 50px;
     top: 900px;
@@ -107,7 +108,7 @@ a:hover {
     
 }
 
-.txt5 {
+.txt_centre_interets {
     word-wrap: break-word;
     height: 350px;
     width: 550px;
