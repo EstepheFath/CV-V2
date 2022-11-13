@@ -19,7 +19,7 @@
 
             <div  class= "txt_bienvenue"> <p>Bienvenue sur mon site CV de ma réalisation!</p> </div>
 
-            <div  class= "txt-info_contact"> <h2> Informations et contact</h2>
+            <div  class= "txt_info_contact"> <h2> Informations et contact</h2>
               <div class= "ul">   
                 <ul>
                 <ol>106 promenade du lac bat A1 apt 401</ol>
